@@ -1,4 +1,0 @@
-msquic/src/generated/CMakeFiles/msquic.lttng.dir/linux/quic.clog_sent_packet_metadata.c.clog.h.c.o: \
- /home/gaiye/Projects/mqtt_over_quic/msquic/src/generated/linux/quic.clog_sent_packet_metadata.c.clog.h.c \
- /usr/include/stdc-predef.h \
- /home/gaiye/Projects/mqtt_over_quic/msquic/src/generated/common/clog.h
